@@ -1,0 +1,5 @@
+mediapipe>=0.8.9
+opencv-python>=4.5.0
+numpy>=1.19.0
+pymouse>=1.0
+pykeyboard>=0.1.5
