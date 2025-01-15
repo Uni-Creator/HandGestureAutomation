@@ -18,21 +18,26 @@ A modern, intuitive way to control your computer mouse using hand gestures captu
 ## Installation
 
 1. Clone the repository:
+```bash
 git clone https://github.com/yourusername/hand-gesture-mouse-controller.git
 cd hand-gesture-mouse-controller
-
+```
 2. Install the required dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the application:
+```bash
 python MouseController2.py
-
+```
 
 ## Usage
 
 1. Run the main script:
+```bash
 python MouseController2.py
-
+```
 
 2. Position your hand in front of the webcam
 3. Use the following gestures:
