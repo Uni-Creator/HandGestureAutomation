@@ -1,4 +1,5 @@
 # 🖱️ Hand Gesture Mouse Controller
+![GitHub Repo stars](https://img.shields.io/github/stars/Uni-Creator/HandGestureAutomation?style=social)  ![GitHub forks](https://img.shields.io/github/forks/Uni-Creator/HandGestureAutomation?style=social)
 
 A modern, intuitive way to control your computer mouse using hand gestures captured through your webcam. This project leverages cutting-edge computer vision and hand tracking technology to create a natural interface for computer interaction.
 
